@@ -1,0 +1,5 @@
+C:\GitProjects\Encounter-Generator\Encounter Generator\Encounter Generator\bin\Debug\Encounter_Generator.exe
+C:\GitProjects\Encounter-Generator\Encounter Generator\Encounter Generator\bin\Debug\Encounter_Generator.pdb
+C:\GitProjects\Encounter-Generator\Encounter Generator\Encounter Generator\obj\Debug\ResolveAssemblyReference.cache
+C:\GitProjects\Encounter-Generator\Encounter Generator\Encounter Generator\obj\Debug\Encounter_Generator.exe
+C:\GitProjects\Encounter-Generator\Encounter Generator\Encounter Generator\obj\Debug\Encounter_Generator.pdb
