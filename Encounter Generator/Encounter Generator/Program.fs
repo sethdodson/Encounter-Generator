@@ -44,10 +44,50 @@ type Diet =
 
 [<Measure>] type Platinum
 
+type GemTreaure = 
+    | Ornamental
+    | SemiPrecious
+    | Fancy
+    | Precious
+    | Gems
+    | Jewels
+    member gt.BaseValue = 
+        match gt with
+        | Ornamental -> 10<Gold>
+        | SemiPrecious -> 50<Gold>
+        | Fancy -> 100<Gold>
+        | Precious -> 500<Gold>
+        | Gems -> 1000<Gold>
+        | Jewels -> 5000<Gold>                    
 
-//type Treasure = 
-        
-    
+type TreasureType = 
+    | A
+    | B
+    | C
+    | D
+    | E
+    | F
+    | G
+    | H
+    | I
+    | J
+    | K
+    | L
+    | M
+    | N
+    | O
+    | P
+    | Q
+    | R
+    | S
+    | T
+    | U
+    | V
+    | W
+    | X
+    | Y
+    | Z
+                
 type ICreature = 
     abstract member Climate : unit -> Climate
     abstract member Frequency : unit -> Frequency
